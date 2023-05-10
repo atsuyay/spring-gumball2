@@ -1,8 +1,9 @@
 # CMPE 172 - Lab #10 - DevOps CI/CD Notes
 
 ## CI Workflow (Spring Gumball) 
+![41 building](https://github.com/atsuyay/spring-gumball2/assets/60360870/8fecdf4d-3328-4e96-a5f2-6626e72bc95d)
+![42 build done](https://github.com/atsuyay/spring-gumball2/assets/60360870/ecc402e9-52d8-4ec1-99d3-35f2a80b8185)
 
-![CI Java CI with Gradle](images/CI_build.PNG) Figure 1. Shows successful workflow of Java CI with Gradle
 
 ## CD Workflow (Spring Gumball) 
 
