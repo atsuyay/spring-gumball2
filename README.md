@@ -43,19 +43,31 @@ key created.
 Docker setting begin
 ![12 befor make github key](https://github.com/atsuyay/spring-gumball2/assets/60360870/5ab0c521-a79a-4b2d-baf7-6aa7205c74b5)
 
-New Secret key created (GKE_SA_KEY)
+New Secret key created (GKE_PROJECT)
 ![13 New Repository Secret GKE_PROJECT](https://github.com/atsuyay/spring-gumball2/assets/60360870/c8efba82-5d70-4bd4-b0b6-8a4f1b16dc75)
 
-
+New Secret key created (GKE_SA_KEY)
 ![14 gke sa key](https://github.com/atsuyay/spring-gumball2/assets/60360870/7c45e44b-f699-4818-bdfd-24561f170d0c)
+
+Two keys made
 ![15 two key made](https://github.com/atsuyay/spring-gumball2/assets/60360870/87298c1a-7e8d-4f9c-abb8-80c608b26066)
+
+Trigger a CD Deployment by creatting a new Github Release
 ![16 Trigger a CD Deployment by creating a new GitHub Releas](https://github.com/atsuyay/spring-gumball2/assets/60360870/c2110a92-e19c-44e2-a667-57c36a4b932f)
+
+Make new release 
 ![17 github new release](https://github.com/atsuyay/spring-gumball2/assets/60360870/b4031dd7-7ccd-4a38-a819-b27664b20354)
+
+New Release created
 ![18 new release done](https://github.com/atsuyay/spring-gumball2/assets/60360870/379de97b-b1c3-4443-b311-39514b8e4e5f)
+
+Setup, Build, Publish, and Deploying
 ![19 github build done](https://github.com/atsuyay/spring-gumball2/assets/60360870/9e05e54f-effd-49f6-ae19-65614c6302f5)
+
+Complete Setup, Build, Publish, and Deploy.
+![20 overall of github](https://github.com/atsuyay/spring-gumball2/assets/60360870/7ef3d13e-dd07-4a80-8684-836922ee96d5)
 ![19 service on gke](https://github.com/atsuyay/spring-gumball2/assets/60360870/f9fcd8e4-49b5-4639-affb-013cde7fd0bd)
 ![20 gke work load](https://github.com/atsuyay/spring-gumball2/assets/60360870/91282891-7169-451b-8f97-699b52feab3a)
-![20 overall of github](https://github.com/atsuyay/spring-gumball2/assets/60360870/7ef3d13e-dd07-4a80-8684-836922ee96d5)
 ![21 gke service2](https://github.com/atsuyay/spring-gumball2/assets/60360870/6825e6bb-509c-42af-8ee2-dd0de6aa27d9)
 ![22 gke network](https://github.com/atsuyay/spring-gumball2/assets/60360870/80158473-ac80-401b-82e9-c3352b3bc0c3)
 ![23 gke ingress load balancer](https://github.com/atsuyay/spring-gumball2/assets/60360870/20df6aae-89f4-45ec-a431-4824c56c6fcb)
