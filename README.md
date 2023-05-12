@@ -1,7 +1,11 @@
 # CMPE 172 - Lab #10 - DevOps CI/CD Notes
 
 ## CI Workflow (Spring Gumball) 
+
+Build spring-gumball on github
 ![41 building](https://github.com/atsuyay/spring-gumball2/assets/60360870/bbb0b761-1ace-4a74-b59c-573c6e361f9f)
+
+All build successfuly finished
 ![42 build done](https://github.com/atsuyay/spring-gumball2/assets/60360870/6b9aeeff-1607-4558-a161-571e140fbe2b)
 
 
@@ -40,7 +44,7 @@ Key created.
 key created.
 ![12 create new key done](https://github.com/atsuyay/spring-gumball2/assets/60360870/ecd65189-e621-4d91-9bc0-f71985975fe2)
 
-Docker setting begin
+Github setting begin
 ![12 befor make github key](https://github.com/atsuyay/spring-gumball2/assets/60360870/5ab0c521-a79a-4b2d-baf7-6aa7205c74b5)
 
 New Secret key created (GKE_PROJECT)
@@ -85,5 +89,8 @@ Ingress creating
 Ingress created
 <img width="1440" alt="24 5ingress created" src="https://github.com/atsuyay/spring-gumball2/assets/60360870/128366d6-0fb0-4fe7-b1be-5b0687f26eaf">
 
+Status fine
 ![24 load balance created](https://github.com/atsuyay/spring-gumball2/assets/60360870/85c29786-d6c1-4831-858f-da76003141e5)
+
+Gumball machine work well
 ![25 gumball machine](https://github.com/atsuyay/spring-gumball2/assets/60360870/e20cb7a6-a669-459a-a962-73fd016878ab)
