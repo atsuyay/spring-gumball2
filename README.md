@@ -36,9 +36,17 @@ key setting
 
 Key created.
 ![11 new key generated](https://github.com/atsuyay/spring-gumball2/assets/60360870/a880da2e-ffd1-4039-a8f5-90a2c38a83f2)
-![12 befor make github key](https://github.com/atsuyay/spring-gumball2/assets/60360870/5ab0c521-a79a-4b2d-baf7-6aa7205c74b5)
+
+key created.
 ![12 create new key done](https://github.com/atsuyay/spring-gumball2/assets/60360870/ecd65189-e621-4d91-9bc0-f71985975fe2)
+
+Docker setting begin
+![12 befor make github key](https://github.com/atsuyay/spring-gumball2/assets/60360870/5ab0c521-a79a-4b2d-baf7-6aa7205c74b5)
+
+New Secret key created (GKE_SA_KEY)
 ![13 New Repository Secret GKE_PROJECT](https://github.com/atsuyay/spring-gumball2/assets/60360870/c8efba82-5d70-4bd4-b0b6-8a4f1b16dc75)
+
+
 ![14 gke sa key](https://github.com/atsuyay/spring-gumball2/assets/60360870/7c45e44b-f699-4818-bdfd-24561f170d0c)
 ![15 two key made](https://github.com/atsuyay/spring-gumball2/assets/60360870/87298c1a-7e8d-4f9c-abb8-80c608b26066)
 ![16 Trigger a CD Deployment by creating a new GitHub Releas](https://github.com/atsuyay/spring-gumball2/assets/60360870/c2110a92-e19c-44e2-a667-57c36a4b932f)
