@@ -79,7 +79,11 @@ In the GKE, make Ingress
 Make load balancer
 ![22 gke network](https://github.com/atsuyay/spring-gumball2/assets/60360870/80158473-ac80-401b-82e9-c3352b3bc0c3)
 
-
+Ingress creating
 ![23 gke ingress load balancer](https://github.com/atsuyay/spring-gumball2/assets/60360870/20df6aae-89f4-45ec-a431-4824c56c6fcb)
+
+Ingress created
+<img width="1440" alt="24 5ingress created" src="https://github.com/atsuyay/spring-gumball2/assets/60360870/128366d6-0fb0-4fe7-b1be-5b0687f26eaf">
+
 ![24 load balance created](https://github.com/atsuyay/spring-gumball2/assets/60360870/85c29786-d6c1-4831-858f-da76003141e5)
 ![25 gumball machine](https://github.com/atsuyay/spring-gumball2/assets/60360870/e20cb7a6-a669-459a-a962-73fd016878ab)
