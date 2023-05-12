@@ -13,10 +13,18 @@
 I had challenges with gke-credentials and have to give permission when creating the GKE Service Account as my CD builds were failing before giving permissions.
 
 ![1Find your GKE Project ID1](https://github.com/atsuyay/spring-gumball2/assets/60360870/2dd8da6a-7b52-4e85-8e93-65059af401b2)
+I created a GKE named CMPE172.
+プロジェクト名--> Project Name
+![1Find your GKE Project ID1](https://github.com/atsuyay/spring-gumball2/assets/60360870/2dd8da6a-7b52-4e85-8e93-65059af401b2)
+run "gcloud config get project"
 ![2gcloud config get project](https://github.com/atsuyay/spring-gumball2/assets/60360870/880fc205-4e71-4c2e-b40b-d2e37dca37ab)
+Enabling access to APIs
 ![3activationAPI](https://github.com/atsuyay/spring-gumball2/assets/60360870/cba402e3-3ca6-46b8-be9a-b0510f808c03)
+Setting account details
 ![4Create Service Account](https://github.com/atsuyay/spring-gumball2/assets/60360870/6bf79040-c858-47cd-b3da-088eb464c24a)
+Service Account created
 ![5Create Service Account2](https://github.com/atsuyay/spring-gumball2/assets/60360870/50a921b6-50c6-4f43-9ecb-21b915616332)
+
 ![6IMF roles](https://github.com/atsuyay/spring-gumball2/assets/60360870/4f64b17f-7878-4076-bfd3-defb31b76862)
 ![7 grant access1](https://github.com/atsuyay/spring-gumball2/assets/60360870/350e7fee-619f-442f-a9ca-0e341aaa8ba4)
 ![8 before making new key](https://github.com/atsuyay/spring-gumball2/assets/60360870/9dae95ca-246d-4e10-9790-320105d2ed60)
