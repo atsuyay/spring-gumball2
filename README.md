@@ -28,14 +28,13 @@ Service Account created
 Setting of Permissions for this project.
 ![6IMF roles](https://github.com/atsuyay/spring-gumball2/assets/60360870/4f64b17f-7878-4076-bfd3-defb31b76862)
 
-setting details
-![7 grant access1](https://github.com/atsuyay/spring-gumball2/assets/60360870/350e7fee-619f-442f-a9ca-0e341aaa8ba4)
-
-setting details
+Before making key
 ![8 before making new key](https://github.com/atsuyay/spring-gumball2/assets/60360870/9dae95ca-246d-4e10-9790-320105d2ed60)
 
-key created
+key setting
 ![9 permission complete](https://github.com/atsuyay/spring-gumball2/assets/60360870/641c162e-30f0-447e-aee8-fd68c4dbfe7e)
+
+Key created.
 ![11 new key generated](https://github.com/atsuyay/spring-gumball2/assets/60360870/a880da2e-ffd1-4039-a8f5-90a2c38a83f2)
 ![12 befor make github key](https://github.com/atsuyay/spring-gumball2/assets/60360870/5ab0c521-a79a-4b2d-baf7-6aa7205c74b5)
 ![12 create new key done](https://github.com/atsuyay/spring-gumball2/assets/60360870/ecd65189-e621-4d91-9bc0-f71985975fe2)
